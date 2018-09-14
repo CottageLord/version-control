@@ -6,7 +6,7 @@ public class sphere : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		print("I want to make conflicts.");
 	}
 	
 	// Update is called once per frame
